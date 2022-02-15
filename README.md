@@ -1,2 +1,2 @@
-# odin-recipies
-Recipies project for HTML Foundations through The Odin Project
+# odin-recipes
+Recipes project for HTML Foundations through The Odin Project
