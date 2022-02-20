@@ -8,6 +8,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: #8FBCBB;
+}
+
 ul {
     color: #ECEFF4;
     display: table;
