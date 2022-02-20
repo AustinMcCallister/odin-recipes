@@ -13,20 +13,16 @@ h2 {
     text-align: center;
 }
 
-ul {
-    color: #ECEFF4;
-    display: table;
-    margin: 0 auto;
-    width: 20em;
-    text-align: left;
-}
-
+ul,
 ol {
     color: #ECEFF4;
     display: table;
     margin: 0 auto;
-    width: 20em;
     text-align: left;
+}
+
+.center-list {
+    width: 20em;
 }
 
 img {
