@@ -17,6 +17,7 @@ ul {
     color: #ECEFF4;
     display: table;
     margin: 0 auto;
+    width: 20em;
     text-align: left;
 }
 
@@ -24,12 +25,21 @@ ol {
     color: #ECEFF4;
     display: table;
     margin: 0 auto;
+    width: 20em;
     text-align: left;
 }
 
 img {
     height: auto;
     width: 250px;
+}
+
+p {
+    color: #ECEFF4;
+    display: table;
+    margin: 0 auto;
+    width: 19em;
+    text-align: left;
 }
 
 .center-img {
