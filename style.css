@@ -7,6 +7,10 @@ h1 {
     text-align: center;
 }
 
+ul {
+    color: #ECEFF4;
+}
+
 a:link {
     color: #81A1C1;
 }
