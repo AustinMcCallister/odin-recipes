@@ -20,6 +20,13 @@ ul {
     text-align: left;
 }
 
+ol {
+    color: #ECEFF4;
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
 img {
     height: auto;
     width: 250px;
