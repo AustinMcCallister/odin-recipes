@@ -9,4 +9,4 @@ Skills demonstrated in the process of completing this project include:
 - Basic CSS styling syntax and techniques
 - Linking to external assets through both absolute and relative paths
 - Manipulating dimensions of embedded image files
-- Following proper programming conventions, particularly in utilizing features related to page accessibility.
+- Following proper programming conventions, particularly in utilizing features related to page accessibility
