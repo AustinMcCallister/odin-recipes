@@ -1,5 +1,8 @@
-# odin-recipes
+# The Odin Project: Recipes
+
 This website project was created to demonstrate the basic html and css skills that I learned up to this point in my studies through The Odin Project.
+
+[Live Link](https://austinmccallister.github.io/odin-recipes/)
 
 ---
 
